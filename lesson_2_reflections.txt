@@ -24,3 +24,11 @@ out an experimental design or new product.
 It would also be helpful if others were
 working on part of the project and you needed
 their code to be implemented after spending about a week on it
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams are helpful for showing reachability of certain
+commits relative to others. It's also helpful
+to compare branches between one another and see
+what the impact of merging a branch would have
+on the existing or master branch.
