@@ -1,0 +1,68 @@
+Reflections
+
+How could using 'diff' help
+with the process of producing good code?
+
+'Diff' could come in handy when comparing
+what changed, especially in an open-source
+project (Like Bitcoin!). It would be
+very important to understand what changed
+between versions. Don't let Gavin Andreesseen
+slip a hard fork by you!
+
+How could having easy access to the
+entire history of a file make you a
+more efficient programmer in the long
+term?
+
+Having the full history of a file would
+allow you to see how changes have been
+propagated in the code and could allow
+you to spot where mistakes were made
+or give you more context to why
+decision were made one way or another.
+
+What do you think are the pros and cons
+of manually choosing when to create a
+commit, like you do in Git, vs having
+versions automatically saved, like
+Google Docs does?
+
+Pros: You don't save meaningless changes,
+You don't save harmful changes,
+Your changes can have logical units.
+Cons: You could forget to save changes,
+You could not be diligent with commenting
+on changes which makes code difficult.
+
+Why do you think some version control systems,
+like Git, allow saving multiple files in
+one commit, while others, like Google Docs,
+Treat each file separately?
+
+There are more likely to be interdependencies
+ in a Git repository than in a repository
+ like Google Docs
+
+How can you use the commands git log
+and git diff to view the history of files?
+
+You can see changes between versions
+w/ git log and you can see specific code
+ changes with git diff. Cool!
+
+How might using version control make you
+more confident to make changes that could
+break something?
+
+When you write code that could break
+something, it would help when
+auditing b/c you would know which
+logical unit was more likely responsible
+for the error in the code.
+
+Now that you have your workspace set up,
+ what do you want to try using Git for?
+
+It would be fun to use Git on a simple
+web request problem!
