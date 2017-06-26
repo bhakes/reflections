@@ -16,3 +16,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 The staging area can be helpful for staging commits into logical units.
 If I have two files that have changed, but I want to make two separate changes
 I can log them with two separate commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would be helpful when you were testing
+out an experimental design or new product.
+It would also be helpful if others were
+working on part of the project and you needed
+their code to be implemented after spending about a week on it
