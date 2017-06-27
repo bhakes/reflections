@@ -32,3 +32,10 @@ commits relative to others. It's also helpful
 to compare branches between one another and see
 what the impact of merging a branch would have
 on the existing or master branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is a branch
+that contains code from both of the merged branches.
+It's represented in a diagram because that's the way
+it is merged.
