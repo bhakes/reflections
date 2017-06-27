@@ -39,3 +39,10 @@ The result of merging two branches together is a branch
 that contains code from both of the merged branches.
 It's represented in a diagram because that's the way
 it is merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Merging automatically is really fast and could be efficient
+if you are not at all concerned that there could be overlap.
+However, if there is overlap, you run the risk that your code
+will be inappropriately merged.
